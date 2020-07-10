@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+nav{
+    background-color: #1d89e4;
+}
+.navback a{
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+ul{
+    list-style-type: none;
+    margin-left: 30px;;
+    padding: 0;
+    width: 60px;
+    padding-top: 12px;
+}
+ul li{
+    display: inline;
+    padding: 10px;
+    color: #929697;
+    font-size: 10px;
+    font-weight: 400;
+}
+.banner{
+    height: 80vh;
+    background-color: #edf5f8;    
+}
+h6{
+    color: #6a9aba;
+    font-weight: bolder;
+    padding-top: 50px
+}
+.total{
+    color: #929697;
+    font-size: 9px;
+    padding-top: 30px;    
+}
+.ntotal{
+    color: #1d89e4; 
+    line-height: 1px;  
+    font-size: 8px; 
+    font-weight: bolder
+}
+.card{
+    margin-top: 20px;
+}
+.card-body1{
+    background-color: #8f7ef3;
+}
+.card-body2{
+    background-color: #7ad7e4;
+}
+.card-body3{
+    background-color: #f17c92;
+}
+.card-title{
+    font-size: 12px;
+    color: white;
+    font-weight: bolder;
+    padding-top: 10px;
+    margin-left: 10px;
+}
+.compare{
+    font-size: 8px;
+    color: white;
+    line-height: 5px;
+    margin-left: 10px;
+}
+.today{
+    font-size: 12px;
+    color: white;
+    line-height: 5px;
+    margin-left: 10px;
+}
+.card-image{
+    padding-right: 5px;
+}
+.card-body{    
+    border: 1px solid white;
+    height: 30vh;
+    
+}
+.card-title2{
+    font-size: 12px;
+    color: #171818;
+    font-weight: bolder;
+    padding-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.para{
+    font-size: 10px;
+    color: #929697;
+    margin-left: 10px;
+}
+.col-sm-4 i{
+    margin-top: 40px;
+    font-size: 60px;
+    padding-right: 20px;
+    color: #929697;
+}
